@@ -1,7 +1,4 @@
 # Compiler-based-Optimization-for-Machine-Learning-Models-on-Heterogeneous-Multi-Core-Systems
-
-# Compiler-Based Optimization for Machine Learning Models
-
 ## Overview
 This project presents a compiler-based optimization technique for machine learning models on heterogeneous multi-core systems. The goal is to unlock the full potential of ML models by improving performance, increasing throughput, and reducing latency while maintaining power efficiency.
 
