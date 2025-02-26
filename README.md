@@ -20,9 +20,3 @@ Our optimization technique has been successfully applied to various ML models an
 * **Object Detection:** Optimized performance for real-time applications on edge devices.
 * **Natural Language Processing:** Reduced latency and memory usage for deploying models in resource-constrained environments.
 
-## Usage
-To learn more about our compiler-based optimization technique, please visit our website: [insert website URL]
-
-## Contact
-For more information, please contact us at [info@example.com](mailto:info@example.com). Our optimization technique is available for licensing and can be customized to meet your specific needs.
-
